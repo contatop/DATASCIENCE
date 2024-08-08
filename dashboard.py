@@ -11,6 +11,7 @@ st.set_page_config(layout="wide")
 # Tipo de produ to mais vendido, contribuição por filial
 # Desempenho das formas de pagamento
 # Como estão as avaliações das filias
+# trabalho em
 
 dados = pd.read_csv("supermarket_sales.csv", sep=";", decimal=",")
 
